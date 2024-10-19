@@ -9,7 +9,8 @@ npx expo run:ios
 ```
 
 ### 📝 Notes
-Please see [@alexlop29/react-native/tree/react-native-with-default-firebase-config](https://github.com/alexlop29/react-native/tree/react-native-with-default-firebase-config). It contains the initial Firebase configuration used to bootstrap this project.
+Please see [@alexlop29/react-native/tree/react-native-with-default-firebase-config](https://github.com/alexlop29/react-native/tree/react-native-with-default-firebase-config).
+It contains the initial Firebase configuration used to bootstrap this project.
 
 ### 🔧 Core Libraries
 - [Expo](https://docs.expo.dev/)
