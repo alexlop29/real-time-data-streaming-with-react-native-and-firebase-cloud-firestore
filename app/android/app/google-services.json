@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "498517482784",
+    "project_id": "my-app-e0ecb",
+    "storage_bucket": "my-app-e0ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498517482784:android:e373bcba126ca9f77d4b45",
+        "android_client_info": {
+          "package_name": "com.alexlop29.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498517482784-cbikb9pi8p6hkta08q7l47375bt6iv75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexlop29.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "498517482784-qc0lb0jpohl71vjlqgitc6imab7vigig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9ITn1gBIOGmDAAcsgsiPYAIKT7QWE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498517482784-qc0lb0jpohl71vjlqgitc6imab7vigig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498517482784-spdsrhq17aq7sshtg1fjaqnm4dpan0th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alexlop29.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
